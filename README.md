@@ -1,3 +1,16 @@
+Company : CODTECH IT SOLUTIONS
+
+Name : Reddy Akkamma Chandana
+
+Intern ID : CT06DG1234
+
+Domain : Data Science
+
+Duration : 6 Weeks
+
+Mentor : Neela Santosh
+
+
 # Task-1
 Objective:
 Build a data pipeline for data cleaning, transformation, and loading using a simulated dataset.
